@@ -1,4 +1,4 @@
-#include"stdio.h"
+﻿#include"stdio.h"
 int mystrcmp(char *str1,char *str2)
 {
 	while(*str1&&*str2)
